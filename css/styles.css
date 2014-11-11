@@ -1,0 +1,63 @@
+/***************************************************/
+/***************************************************/
+/*
+/*  Involution Studios LLC Stylesheet    
+/*
+/*
+/***************************************************/
+/***************************************************/
+
+
+/* RESET BASIC STYLES */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,th,td {
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+body, div, form, td, p {
+	color: #eaa78d;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #eaa78d;
+	text-decoration: none;
+	border-bottom: 1px dotted #ddd;
+}
+a:hover {
+	color: #ddd;
+}
+
+body {
+	background-color: #363934;
+	font-size: 62.5%;
+	font-family: Gill Sans MT, Gill Sans, sans-serif;
+	line-height: 1.4;
+}
+
+#content {
+	margin: 0 auto;
+	width: 400px;
+}
+
+#logo {
+	margin: 200px 0 3em -98px;
+}
+
+h2 {
+	font-size: 1.2em;
+	margin: 0 0 0.8em;
+}
+
+.mainLink {
+	font-family: georgia, serif;
+	font-size: 2.4em;
+}
+
+#ofNote p {
+/*	margin: 0.8em 0;*/
+	font-size: 1.2em;
+}
